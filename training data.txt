@@ -1,0 +1,7 @@
+import ultralytics
+from ultralytics import YOLO
+
+
+yolo = YOLO('yolov8n.pt')
+
+yolo.train(data = 'data.yaml',epochs=200)

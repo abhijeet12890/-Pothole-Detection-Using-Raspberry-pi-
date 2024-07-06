@@ -1,0 +1,6 @@
+train: D:\sachin D drive\Raspberry project\PY\Prajyot sir\23-24\TSSMS and JSPM N\pathol detection\new final\Training\Data set\train\images
+val: D:\sachin D drive\Raspberry project\PY\Prajyot sir\23-24\TSSMS and JSPM N\pathol detection\new final\Training\Data set\valid\images
+test: D:\sachin D drive\Raspberry project\PY\Prajyot sir\23-24\TSSMS and JSPM N\pathol detection\new final\Training\Data set\test\images
+
+nc: 1
+names: ['Path_hole']
